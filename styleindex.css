@@ -1,0 +1,49 @@
+/* rs css */
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.img {
+   width: 100%;
+   height: auto;
+}
+
+.services-row {
+   position: relative;
+   margin-bottom: 20px;
+}
+.services-item {
+   background-color: rgba(0, 0, 0, 0.4);
+   color: white;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   padding: 10px;
+}
+.services-item h3 {
+   font-size: 20px;
+}
+
+.title p {
+   color: gray;
+   font-size: 20px;
+}
+
+.item-combo {
+   background-color: #dadada;
+   padding: 15px 10px 5px 10px;
+}
+.item-title {
+   border-bottom: 1px dashed black;
+   padding-bottom: 15px;
+}
+
+.footer {
+   background-color: #333333;
+   color: white;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   margin-top: 20px;
+}

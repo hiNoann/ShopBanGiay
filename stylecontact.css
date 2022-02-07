@@ -1,0 +1,26 @@
+/* rs css */
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.table {
+   margin: 0 auto;
+}
+
+.btn {
+   text-align: center;
+}
+
+.table input {
+   width: 300px;
+}
+
+.table label {
+   margin: 20px;
+}
+
+.btn button:hover {
+   cursor: pointer;
+}
